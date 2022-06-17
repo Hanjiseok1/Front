@@ -7,3 +7,12 @@
     margin: 0px;
     padding: 0px;
 }
+
+ul {
+    list-style: none;
+    list-style-type: none;
+}
+
+a {
+    text-decoration:none;  /* 텍스트 링크 밑줄 없애기 */ 
+  }

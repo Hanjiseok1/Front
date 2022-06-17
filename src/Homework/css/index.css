@@ -10,8 +10,18 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    width: 100%;
 }
 
-nav ul li {
+ul {
+    display: flex; /*옆으로 정렬*/
+}
+
+nav ul li a{
     color: white;
+}
+
+#logo {
+    float: left;
 }
